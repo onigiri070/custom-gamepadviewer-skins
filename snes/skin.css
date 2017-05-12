@@ -35,7 +35,8 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 
 */
 
-/*BEGIN PS3 Controller Styling*/
+/*Based on PS3 Controller Styling*/
+/*Modified for use with Pokken Tournament Pro pad */
 /*This class defines the base attributes of the skin*/
 .controller.custom{
     background: url(drawing/drawing.svg); 
