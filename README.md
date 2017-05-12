@@ -1,6 +1,6 @@
-# Custom CSS skins Gamepad Viewer
+# Custom CSS Gamepad Viewer skins
 
-These are some personal CSS skins for the gamepad display web app written by
+Personal CSS skins for the Gamepad Viewer web app by
 [mrmcpowned](https://obsproject.com/forum/threads/gamepad-display.12508/).
 
 ## Usage
