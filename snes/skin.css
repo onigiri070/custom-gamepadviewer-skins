@@ -194,6 +194,7 @@ start and select buttons. */
 /* Analog sticks follow the same principles as the triggers in terms of positioning
 Note that the rotation of the sticks in hard coded with javascript, so it applies 
 the CSS inline. */
+/*
 .custom .sticks{
     position: absolute;
     width: 364px;
@@ -220,6 +221,7 @@ the CSS inline. */
     top: calc(100% - 105px);
     left: calc(100% - 105px);
 }
+*/
 /* Dpad possitioning and sizing */
 .custom .dpad{
     position: absolute;
@@ -297,6 +299,7 @@ an opacity setting */
 showing the input would be to use an image sprite of a fight stick in
 all 8 positions, and change it according to the inputs. The classes 
 themselves are fairly self explanatory. */
+/*
 .fstick{
     position: absolute;
     width: 140px;
@@ -328,5 +331,5 @@ themselves are fairly self explanatory. */
 .fstick.down.left{
   
 }
-
+*/
 /*END PS3 Controller Styling*/
